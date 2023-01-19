@@ -3,14 +3,16 @@
     border: 0;
 }
 
-.box{
+#box{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20vh;
-    height: 300px;
+    height: 100vh;
     width: 100vw;
-    background-color: aqua;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+
 }
 
 .box2{
@@ -19,7 +21,7 @@
     justify-content: center;
     height: 50px;
     width: 150px;
-    background-color: blue;
+    background-color: yellow;
 }
 .center{
     display: flex;
@@ -30,5 +32,5 @@
 button{
     font-weight: bolder;
     font-size: large;
-    background-color: brown;
+    background-color: rgb(255, 255, 255);
 }

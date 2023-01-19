@@ -5,6 +5,7 @@ var randomClub = golfkølle[Math.floor(Math.random() *golfkølle.length)];
 
 let test = document.getElementById("test")
 
+document.getElementById("box").style.backgroundImage="url(gress.jpg)";
 
 console.log(randomClub);
 
